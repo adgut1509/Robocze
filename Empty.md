@@ -8,7 +8,9 @@ It has survived not only five centuries, but also the leap into electronic types
 Tekst wykrzywiony
 
 <!-- Example for title -->
+<!-- omit in toc -->
 markdowntesting
+==============
 
 <!-- Here comes the TOC -->
 - [heading](#heading)
