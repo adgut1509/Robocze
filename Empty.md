@@ -35,6 +35,18 @@ This is *italic* text.
 <!-- Example for inline code -->
 
 <!-- A block of code -->
+```javascript
+printf ("Hello World");
+```
+```r
+obs <- seq(from=-5, to=5, length = 50)
+dens <- dnorm(obs)
+plot(obs, dens, type = "l", lwd = 1.5, axes = FALSE, xlab = "", ylab = "")
+axis(1, at = -5:5, labels = c("-5s","-4s","-3s", "-2s", "-1s", "mean", "1s", "2s", "3s","4s","5s"))
+```
+```python
+print("hello world")
+```
 
 <!-- Example for Quote -->
 
