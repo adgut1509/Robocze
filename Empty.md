@@ -9,11 +9,10 @@ Tekst wykrzywiony
 
 <!-- Example for title -->
 markdowntesting
-=
+
 <!-- Here comes the TOC -->
 - [heading](#heading)
 - [heading2](#heading2)
-- [markdowntesting](#markdowntesting)
 - [bold](#bold)
 - [italic](#italic)
 <!-- Example of paragraph of text -->
