@@ -47,8 +47,14 @@ axis(1, at = -5:5, labels = c("-5s","-4s","-3s", "-2s", "-1s", "mean", "1s", "2s
 ```python
 print("hello world")
 ```
+```
+printf ("Hello World")
+```
 
 <!-- Example for Quote -->
+> This is a quote.  
+> enter  
+> sfsdkfjsdkjf
 
 <!-- Example for Bullet List -->
 
