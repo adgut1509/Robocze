@@ -77,5 +77,5 @@ printf ("Hello World")
 | ------------ | ------------- | ------------ |
 | Content 1    | Content 2     | Content 3    |
 | A1           | A2            |
-A3
+| A3
 <!-- Paragraph after table -->
