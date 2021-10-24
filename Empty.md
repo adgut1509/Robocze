@@ -16,6 +16,7 @@ markdowntesting
 - [bold](#bold)
 - [italic](#italic)
   
+  
 <!-- Example of paragraph of text -->
 
 <!-- Example of another paragraph -->
@@ -68,9 +69,9 @@ printf ("Hello World")
 <!-- Example for Numbered List -->
 
 <!-- Example for Tables -->
-First header | Second header | Third header
--------------|---------------|-------------
-Content 1  | Content 2     | Content 3
-A1 | A2
+| First header | Second header | Third header |
+| ------------ | ------------- | ------------ |
+| Content 1    | Content 2     | Content 3    |
+| A1           | A2            |
 A3
 <!-- Paragraph after table -->
