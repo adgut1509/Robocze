@@ -1,8 +1,9 @@
 <!-- Example for normal text -->
 This is sample text.  
 This is second sample.  
-
+# heading
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.  
+# heading_2
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 Tekst wykrzywiony
 
@@ -10,15 +11,21 @@ Tekst wykrzywiony
 Markdown testing
 =
 <!-- Here comes the TOC -->
-
+- [heading](#heading)
+- [heading_2](#heading_2)
+- [Markdown testing](#markdown-testing)
+- [bold](#bold)
+- [italic](#italic)
 <!-- Example of paragraph of text -->
 
 <!-- Example of another paragraph -->
 
 <!-- Example for Bold -->
+# bold
 This is **bold** text.
 <!-- Example for Italic  -->
 This is *italic* text.
+# italic
 <!-- Example for Links -->
 [Github](https://github.com/martab0/Markdown)  
 [pogoda](http://meteo.pl)
