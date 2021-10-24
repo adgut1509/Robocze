@@ -15,6 +15,7 @@ markdowntesting
 - [heading2](#heading2)
 - [bold](#bold)
 - [italic](#italic)
+  
 <!-- Example of paragraph of text -->
 
 <!-- Example of another paragraph -->
