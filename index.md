@@ -76,6 +76,6 @@ printf ("Hello World")
 | First header | Second header | Third header |
 | ------------ | ------------- | ------------ |
 | Content 1    | Content 2     | Content 3    |
-| A1           | A2            |
-| A3
+| A1           | A2            | A3           |
+
 <!-- Paragraph after table -->
