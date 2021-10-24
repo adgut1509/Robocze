@@ -16,7 +16,7 @@ markdowntesting
 - [heading](#heading)
 - [heading2](#heading2)
 - [bold](#bold)
-- [italic](#italic)
+  - [italic](#italic)
   
   
 <!-- Example of paragraph of text -->
@@ -28,7 +28,7 @@ markdowntesting
 This is **bold** text.
 <!-- Example for Italic  -->
 This is *italic* text.
-# italic
+## italic
 <!-- Example for Links -->
 [Github](https://github.com/martab0/Markdown)  
 [pogoda](http://meteo.pl)
