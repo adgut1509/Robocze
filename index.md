@@ -9,6 +9,7 @@ Tekst wykrzywiony
 
 <!-- Example for title -->
 <!-- omit in toc -->
+
 markdowntesting
 ==============
 
@@ -71,6 +72,7 @@ printf ("Hello World")
 <!-- Example for Numbered List -->
 
 <!-- Example for Tables -->
+
 | First header | Second header | Third header |
 | ------------ | ------------- | ------------ |
 | Content 1    | Content 2     | Content 3    |
