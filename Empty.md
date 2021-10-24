@@ -24,7 +24,7 @@ This is *italic* text.
 <!-- Example for Images -->
 ![las](las1.jpg)
 ![las2](https://d-tm.ppstatic.pl/kadry/d4/08/ccf306fbac4337497fc4223c4861.1000.jpg)
-![las3](qwe.jpeg)
+![las3](images/qwe.jpeg)
 <!-- Example for linking to another file-->
 
 <!-- Example for Headers -->
