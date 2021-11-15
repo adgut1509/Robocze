@@ -10,7 +10,7 @@
     - [Cons](#cons-2)
 
 # **Overview of Confluence, JIRA, and MadCap Flare**
-## **_Confluence_**
+## [**_Confluence_**](https://www.atlassian.com/pl/software/confluence)
 ### Pros
 * Pro 1
 * Pro 2
@@ -23,7 +23,7 @@
 * Con 3
 * Con 4
 * Con 5
-## **_JIRA_**
+## [**_JIRA_**](https://www.atlassian.com/pl/software/jira)
 ### Pros
 * Pro 1
 * Pro 2
@@ -36,7 +36,7 @@
 * Con 3
 * Con 4
 * Con 5
-## **_MadCap Flare_**
+## [**_MadCap Flare_**](https://www.madcapsoftware.com/products/flare/)
 ### Pros
 * Pro 1
 * Pro 2
